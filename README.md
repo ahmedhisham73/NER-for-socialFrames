@@ -25,6 +25,8 @@ Recall: 0.80 (Gender), 0.79 (Race), 0.84 (Culture), 0.65 (Victim)
 
 # 5. Advanced Modeling - DistilBERT
 Migration to Transformers: Traditional models like Naïve Bayes showed limitations in capturing the nuances of the dataset. This led to the adoption of DistilBERT, a lighter variant of the original BERT model.
+![images](https://github.com/ahmedhisham73/NER-for-socialFrames/assets/37244966/4d2af9fe-9fb2-4ef1-8ed3-07ebac38b90c)
+
 
 Performance of DistilBERT:
 
@@ -36,6 +38,15 @@ Class Weights: To address the class imbalance in the dataset, class weights were
 Model Metrics: Alongside accuracy, other metrics like precision, recall, and F1 scores were considered to offer a more holistic view of the model's performance.
 Hyperparameter Tuning: Determining the best parameters like learning rate, batch size, and epochs required multiple iterations.
 Callback Implementations: To further enhance the model's training phase, callbacks like early stopping and model checkpointing were introduced.
+
+# Predictions using DISTILLBERT
+
+![Screenshot from 2023-08-14 22-39-47](https://github.com/ahmedhisham73/NER-for-socialFrames/assets/37244966/8bbff377-bcab-444d-98f4-d8c1a4c9f662)
+
+![Screenshot from 2023-08-14 22-40-47](https://github.com/ahmedhisham73/NER-for-socialFrames/assets/37244966/5bd0e9dd-8016-4aeb-90da-88004cb471d5)
+
+
+
 
 
 # Conclusion
