@@ -23,7 +23,7 @@ Precision: 0.77 (Gender), 0.73 (Race), 0.79 (Culture), 0.81 (Victim)
 Recall: 0.80 (Gender), 0.79 (Race), 0.84 (Culture), 0.65 (Victim)
 
 
-#5. Advanced Modeling - DistilBERT
+# 5. Advanced Modeling - DistilBERT
 Migration to Transformers: Traditional models like Naïve Bayes showed limitations in capturing the nuances of the dataset. This led to the adoption of DistilBERT, a lighter variant of the original BERT model.
 
 Performance of DistilBERT:
