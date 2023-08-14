@@ -38,5 +38,5 @@ Hyperparameter Tuning: Determining the best parameters like learning rate, batch
 Callback Implementations: To further enhance the model's training phase, callbacks like early stopping and model checkpointing were introduced.
 
 
-#Conclusion
+# Conclusion
 The journey of conducting NER on the Social Bias Frames dataset was interspersed with numerous challenges, right from the initial data handling to advanced modeling. By leveraging state-of-the-art models like DistilBERT and adopting a strategic approach, these challenges were successfully navigated. As a future direction, delving into more powerful transformer models, ensemble techniques, and further hyperparameter optimization can be considered.
