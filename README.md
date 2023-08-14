@@ -33,7 +33,7 @@ Migration to Transformers: Traditional models like Naïve Bayes showed limitatio
 
 Performance of DistilBERT:
 
-Final Validation Precision: 0.7585
+Final Validation Precision: 0.8585
 Final Validation Recall: 0.9166
 Challenges with DistilBERT:
 
