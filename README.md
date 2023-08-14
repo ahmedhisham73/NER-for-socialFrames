@@ -25,6 +25,9 @@ Recall: 0.80 (Gender), 0.79 (Race), 0.84 (Culture), 0.65 (Victim)
 
 # 5. Advanced Modeling - DistilBERT
 Migration to Transformers: Traditional models like Naïve Bayes showed limitations in capturing the nuances of the dataset. This led to the adoption of DistilBERT, a lighter variant of the original BERT model.
+
+
+
 ![images](https://github.com/ahmedhisham73/NER-for-socialFrames/assets/37244966/4d2af9fe-9fb2-4ef1-8ed3-07ebac38b90c)
 
 
